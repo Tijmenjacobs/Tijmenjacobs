@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hello@toughmonkey.dev**
 
-- ⚡ Fun fact **my favorite animal is actually an Elephant**
+- ⚡ Fun fact **I'm actually a social worker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
