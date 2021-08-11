@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [pinkalpaca](https://www.pinkalpaca.nl)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **React*
 
 - 👨‍💻 All of my projects are available at [https://www.toughmonkey.dev](https://www.toughmonkey.dev)
 
